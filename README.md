@@ -11,14 +11,14 @@
 > Solana, React, Tailwind, Metaplex, Candymachine V2
 
 
-[Visit Skulla](https://skullamint.netlify.app/ "Visit MySeedNFT!") -> Solana blockchain based NFT mint Dapp
+[Visit MySeedNFT](https://mint-website-myseednft.vercel.app// "Visit MySeedNFT!") -> Solana blockchain based NFT mint Dapp
 
 ### Install on Local
 Clone repo
 `npm install`
 `npm start`
 
-### Code OpenSource for MySeedNFT 
+### Code OpenSource for MySeedNFT Community
 ---
 
 #nft #websiteMint #blockChain, #solana #solanaNFTmint, #Panthom #metaplex #CandyMachineV2
