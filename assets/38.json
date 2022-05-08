@@ -1,0 +1,66 @@
+{
+  "name": "MySeedNFT #38",
+  "symbol": "MySeed #1",
+  "description": "This is the first collection for the brazilian house raffle",
+  "seller_fee_basis_points": 500,
+  "image": "38.png",
+  "external_url": "",
+  "edition": 38,
+  "attributes": [
+    {
+      "trait_type": "background aguila",
+      "value": "Coral"
+    },
+    {
+      "trait_type": "cola aguila",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "plumas cabeza aguila",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "plumas cabeza aguila 2",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "cuerpo aguila",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "ojos aguila",
+      "value": "Red"
+    },
+    {
+      "trait_type": "pico aguila",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "plumas cuerpo aguila",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "ala aguila",
+      "value": "Bluish Gray"
+    },
+    {
+      "trait_type": "tallo aguila",
+      "value": "Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "38.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}
