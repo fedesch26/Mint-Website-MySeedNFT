@@ -1,4 +1,4 @@
-## 💀 FORK DAPP MINT MySeedNFT - on <mark>Solana</mark>
+## 🌰 FORK DAPP MINT MySeedNFT - on <mark>Solana</mark>
 
 ![cover](./cover.png)
 
