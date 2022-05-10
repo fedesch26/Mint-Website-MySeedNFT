@@ -10,18 +10,18 @@ const Hero = () => {
     <>
     <div className="relative z-20 mx-auto grid grid-cols-1 gap-x-4 gap-y-20 py-48 lg:grid-cols-2 bg">
   <div className="container px-12 flex flex-col items-center justify-center text-center lg:items-start lg:text-left">
-    <h1 className="mb-4 text-6xl font-bold xl:text-7xl">Skulla Metaverse</h1>
+    <h1 className="mb-4 text-6xl font-bold xl:text-7xl">MySeedNFT</h1>
     <h2 className="mb-12 text-4xl font-bold text-teal-400 underline decoration-indigo-400/30 xl:text-5xl">
-      NFT Project
+       Un Proyecto de SOLANA
     </h2>
     <p className="text-md mb-10 font-medium text-gray-300 xl:text-lg">
-      Meet a collection of 100+ amazing figures with different attributes and
-      styles!
+      Unimos la tecnologia blockchain con los bienes raices, no solo creamos oportunidades, 
+      Tambien cumplimos sueños!
     </p>
     <div className="flex flex-col items-center space-x-4 space-y-4 sm:flex-row sm:space-y-0">
       <a href="/https://discord.gg/tzwQPYMH9W">
         <div className="flex w-fit space-x-2 rounded-2xl bg-gray-600 px-4 py-3 font-semibold shadow-lg transition-all duration-300 hover:-translate-y-[1px] hover:bg-gray-700">
-          <span>Join Discord</span>{" "}
+          <span>Discord</span>{" "}
           <svg
             stroke="currentColor"
             fill="currentColor"
