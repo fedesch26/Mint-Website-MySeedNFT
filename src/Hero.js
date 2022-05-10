@@ -19,7 +19,7 @@ const Hero = () => {
       styles!
     </p>
     <div className="flex flex-col items-center space-x-4 space-y-4 sm:flex-row sm:space-y-0">
-      <a href="/#">
+      <a href="/https://discord.gg/tzwQPYMH9W">
         <div className="flex w-fit space-x-2 rounded-2xl bg-gray-600 px-4 py-3 font-semibold shadow-lg transition-all duration-300 hover:-translate-y-[1px] hover:bg-gray-700">
           <span>Join Discord</span>{" "}
           <svg

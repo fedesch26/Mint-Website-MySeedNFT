@@ -204,14 +204,14 @@ const Footer = () => {
         </div>
         <div className="lg:text-center mt-8 lg:mt-14">
           <p className="font-body text-sm text-blueGray-600">
-            © <span id="spanYear">2022</span> Skulla - All Rights Reserved by{' '}
+            © <span id="spanYear">2022</span> MySeedNFT - All Rights Reserved by{' '}
             <a
-              href="https://designcoder.netlify.app"
+              href="https://myseednft.io/"
               className="text-indigo-500 underline-hover"
               rel="noopener"
               target="_blank"
             >
-              Simanta
+              MySeedNFT
             </a>
           </p>
         </div>
