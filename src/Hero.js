@@ -10,16 +10,16 @@ const Hero = () => {
     <>
     <div className="relative z-20 mx-auto grid grid-cols-1 gap-x-4 gap-y-20 py-48 lg:grid-cols-2 bg">
   <div className="container px-12 flex flex-col items-center justify-center text-center lg:items-start lg:text-left">
-    <h1 className="mb-4 text-6xl font-bold xl:text-7xl">MySeedNFT</h1>
+    <h1 className="mb-4 text-6xl font-bold xl:text-7xl">MySeed</h1>
     <h2 className="mb-12 text-4xl font-bold text-teal-400 underline decoration-indigo-400/30 xl:text-5xl">
-       Un Proyecto de SOLANA
+      NFT Project
     </h2>
     <p className="text-md mb-10 font-medium text-gray-300 xl:text-lg">
-      Unimos la tecnologia blockchain con los bienes raices, no solo creamos oportunidades, 
-      Tambien cumplimos sueños!
+    Conectamos los bienes raices con la tecnologia
+    Blockchain! 
     </p>
     <div className="flex flex-col items-center space-x-4 space-y-4 sm:flex-row sm:space-y-0">
-      <a href="/https://discord.gg/tzwQPYMH9W">
+      <a href="/#">
         <div className="flex w-fit space-x-2 rounded-2xl bg-gray-600 px-4 py-3 font-semibold shadow-lg transition-all duration-300 hover:-translate-y-[1px] hover:bg-gray-700">
           <span>Discord</span>{" "}
           <svg
@@ -65,7 +65,7 @@ const Hero = () => {
           >
             <img
               alt="Top Card"
-              src="/images/0.png"
+              src="/images/0.jpg"
               decoding="async"
               data-nimg="fill"
               className="heroCard"
@@ -115,7 +115,7 @@ const Hero = () => {
               >
                 <img
                   alt="My Profile 1"
-                  src='/images/0.png'                 
+                  src='/images/0.jpg'                 
                   decoding="async"
                   data-nimg="fill"
                   className="heroUser"
@@ -142,9 +142,9 @@ const Hero = () => {
                </span>
             </div>
             <div>
-              <p className="text-xs text-gray-300 xl:text-sm">#5758</p>
+              <p className="text-xs text-gray-300 xl:text-sm">#575</p>
               <p className="text-md font-medium text-indigo-300 xl:text-xl">
-                0.1 SOL
+                30 USDT
               </p>
             </div>
           </div>
@@ -178,7 +178,7 @@ const Hero = () => {
           >
             <img
               alt="Back Card"
-              src="/images/1.png"
+              src="/images/1.jpg"
               decoding="async"
               data-nimg="fill"
               className="heroCard"
@@ -229,7 +229,7 @@ const Hero = () => {
               >
                 <img
                   alt="My Profile 2"
-                  src="/images/1.png"
+                  src="/images/1.jpg"
                   decoding="async"
                   data-nimg="fill"
                   className="heroUser"
@@ -258,9 +258,9 @@ const Hero = () => {
               </span>
             </div>
             <div>
-              <p className="text-xs text-gray-300 xl:text-sm">#3567</p>
+              <p className="text-xs text-gray-300 xl:text-sm">#957</p>
               <p className="text-md font-medium text-indigo-300 xl:text-xl">
-                0.1 SOL
+                30 USDT
               </p>
             </div>
           </div>

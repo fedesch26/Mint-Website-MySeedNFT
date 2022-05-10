@@ -24,7 +24,7 @@ const Header = () => {
               data-nimg="fill"
              className='h-8 w-8 inline'
             />
-            MySeedNFT
+            MYSEEDNFT
           </span>
         </div>
       </a>
@@ -34,20 +34,8 @@ const Header = () => {
             className="text-gray-300 transition duration-300 hover:text-white link"
             href="/#gallery"
           >
-            Gallery
-          </a>
-
-          <a
-            className="text-gray-300 transition duration-300 hover:text-white link"
-            href="/#roadmap"
-          >
-            Roadmap
-          </a>
-          <a
-            className="text-gray-300 transition duration-300 hover:text-white link"
-            href="/#faq"
-          >
-            FAQ
+            Galeria
+         
           </a>
         </div>
       </div>
@@ -127,22 +115,9 @@ const Header = () => {
         className="text-gray-300 transition duration-300 hover:text-white link"
         href="/#gallery"
       >
-        Gallery
+        Galeria
       </a>
 
-      <a
-        className="text-gray-300 transition duration-300 hover:text-white link"
-        href="/#roadmap"
-      >
-        Roadmap
-      </a>
-
-      <a
-        className="text-gray-300 transition duration-300 hover:text-white link"
-        href="/#faq"
-      >
-        FAQ
-      </a>
       <div className="flex items-center space-x-4">
           <div className="rounded-full bg-gray-500 hover:bg-gray-600 p-2 shadow-lg shadow-white/10 transition duration-300 hover:scale-110">
             <svg
@@ -190,7 +165,7 @@ const Header = () => {
       </div>
       <a href="https://solscan.io/account/7xTqBN7KQ2rhmRADn68MVyAM7WYVLwzkT7CHMHAtTLdN?cluster=devnet">
         <div className="w-fit rounded-2xl glass bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100">
-         View on Solscan
+         Ver en Solscan
         </div>
       </a>
     </div>

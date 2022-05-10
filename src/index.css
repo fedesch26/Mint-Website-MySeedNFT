@@ -31,7 +31,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .bg {
-  background-image: url(./images/header.jpg);
+  background-image: url(./images/header.png);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -84,6 +84,12 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     background: -webkit-linear-gradient(left, #6366f114, rgb(130 233 164 / 18%));
     animation: gradient-animation 4s ease infinite;
 }
+
+.NFT {
+  display: flex;
+  width: 200%;
+  animation: bannermove 20s linear infinite;
+}
 /* KeyFrames */
 @-webkit-keyframes gradient-animation {
   0% {
@@ -118,8 +124,14 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     background-position: 0% 50%;
   }
 }
-
-
+@keyframes bannermove {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
 .menu-drop {
   -webkit-animation: menu-drop 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) both;
   animation: menu-drop 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) both;
@@ -157,6 +169,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     opacity: 1;
   }
 }
+
 
 .link {
   position: relative;
@@ -204,4 +217,5 @@ border: 1px solid rgba(255, 255, 255, 0.3);
     transform-origin: top;
     opacity: 1;
   }
+
 }
