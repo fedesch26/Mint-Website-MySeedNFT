@@ -11,7 +11,7 @@ const Footer = () => {
               href="/#"
             >
               
-              SKULLA
+              MySeedNFT
             </a>
             <div className="social-share flex items-center">
               <a

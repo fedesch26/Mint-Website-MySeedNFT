@@ -8,7 +8,7 @@ const FAQ = () => {
   </h3>
   <div className="my-6">
     <div className="rounded-t-2xl bg-teal-600/80 flex w-full cursor-pointer select-none items-center justify-between border-2 border-teal-600/30 px-4 py-4 text-gray-300 transition duration-300 hover:border-teal-600/80 hover:text-white">
-      <h4 className="text-lg font-medium">What is SKULLA?</h4>
+      <h4 className="text-lg font-medium">Que es MySeedNFT</h4>
       <svg
         stroke="currentColor"
         fill="currentColor"
@@ -23,7 +23,7 @@ const FAQ = () => {
     </div>
     <div className="inline-flex w-full rounded-b-2xl border-x-2 border-b-2 border-dashed border-teal-600/30 px-4 py-4 text-gray-300">
       <h5>
-        SKULLA is a collection of 100 amazing figures with different
+        MySeedNFT is a collection of 100 amazing figures with different
         attributes and styles hosted on Solana Blockchain. You can buy these
         figures on this site.
       </h5>
@@ -46,7 +46,7 @@ const FAQ = () => {
     </div>
     <div className="inline-flex w-full rounded-b-2xl border-x-2 border-b-2 border-dashed border-teal-600/30 px-4 py-4 text-gray-300">
       <h5>
-        SKULLA is a collection of 100 amazing figures with different
+        MySeedNFT is a collection of 100 amazing figures with different
         attributes and styles hosted on Solana Blockchain. You can buy these
         figures on this site.
       </h5>
@@ -69,7 +69,7 @@ const FAQ = () => {
     </div>
     <div className="inline-flex w-full rounded-b-2xl border-x-2 border-b-2 border-dashed border-teal-600/30 px-4 py-4 text-gray-300">
       <h5>
-        SKULLA is a collection of 100 amazing figures with different
+        MySeedNFT is a collection of 100 amazing figures with different
         attributes and styles hosted on Solana Blockchain. You can buy these
         figures on this site.
       </h5>

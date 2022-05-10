@@ -24,7 +24,7 @@ const Header = () => {
               data-nimg="fill"
              className='h-8 w-8 inline'
             />
-            SKULLA
+            MySeedNFT
           </span>
         </div>
       </a>
