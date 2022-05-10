@@ -22,6 +22,7 @@ const Header = () => {
               src="/images/logo.png"
               decoding="async"
               data-nimg="fill"
+              width={300}
              className='h-8 w-8 inline'
             />
             MYSEEDNFT
