@@ -18,11 +18,11 @@ const Header = () => {
           <span className='flex items-center gap-2'>
             
             <img
-              alt="nft project logo"
+              alt="MySeed Logo"
               src="/images/logo.png"
               decoding="async"
               data-nimg="fill"
-             className='h-8 w-8 inline'
+             className='h-12 w-12 inline'
             />
             MYSEEDNFT
           </span>
