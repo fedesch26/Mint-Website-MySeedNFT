@@ -12,14 +12,15 @@ const Hero = () => {
   <div className="container px-12 flex flex-col items-center justify-center text-center lg:items-start lg:text-left">
     <h1 className="mb-4 text-6xl font-bold xl:text-7xl">MySeed</h1>
     <h2 className="mb-12 text-4xl font-bold text-teal-400 underline decoration-indigo-400/30 xl:text-5xl">
-      NFT Project
+      Solana NFT project
     </h2>
     <p className="text-md mb-10 font-medium text-gray-300 xl:text-lg">
-    Conectamos los bienes raices con la tecnologia
-    Blockchain! 
+      Conectamos los bienes raices con la tecnologia Blockchain
+      y el mundo de los NFTs. Obten tu boleto ahora y participa
+      por un increible sorteo! 
     </p>
     <div className="flex flex-col items-center space-x-4 space-y-4 sm:flex-row sm:space-y-0">
-      <a href="/#">
+      <a href="/https://discord.org">
         <div className="flex w-fit space-x-2 rounded-2xl bg-gray-600 px-4 py-3 font-semibold shadow-lg transition-all duration-300 hover:-translate-y-[1px] hover:bg-gray-700">
           <span>Discord</span>{" "}
           <svg
@@ -142,7 +143,7 @@ const Hero = () => {
                </span>
             </div>
             <div>
-              <p className="text-xs text-gray-300 xl:text-sm">#575</p>
+              <p className="text-xs text-gray-300 xl:text-sm">#7899</p>
               <p className="text-md font-medium text-indigo-300 xl:text-xl">
                 30 USDT
               </p>
@@ -258,7 +259,7 @@ const Hero = () => {
               </span>
             </div>
             <div>
-              <p className="text-xs text-gray-300 xl:text-sm">#957</p>
+              <p className="text-xs text-gray-300 xl:text-sm">#356</p>
               <p className="text-md font-medium text-indigo-300 xl:text-xl">
                 30 USDT
               </p>

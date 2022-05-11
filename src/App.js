@@ -4,6 +4,7 @@ import Hero from './Hero';
 import NFTS from "./NFTS";
 
 
+
 const App = () => {
 
 	return (

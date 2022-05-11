@@ -22,10 +22,9 @@ const Header = () => {
               src="/images/logo.png"
               decoding="async"
               data-nimg="fill"
-              width={300}
              className='h-8 w-8 inline'
             />
-            MYSEEDNFT
+            MYSEED
           </span>
         </div>
       </a>
@@ -36,8 +35,9 @@ const Header = () => {
             href="/#gallery"
           >
             Galeria
-         
+
           </a>
+
         </div>
       </div>
     </div>
@@ -117,6 +117,7 @@ const Header = () => {
         href="/#gallery"
       >
         Galeria
+
       </a>
 
       <div className="flex items-center space-x-4">

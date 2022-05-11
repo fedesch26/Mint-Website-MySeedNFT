@@ -27,7 +27,6 @@ const NFT = ({img}) => {
         minHeight: "100%",
         maxHeight: "100%",
         objectFit: "contain"
-        
       }}
     />
 
