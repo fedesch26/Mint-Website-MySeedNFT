@@ -10,7 +10,7 @@ const Header = () => {
   };
 
   return (
-    <div className="z-[100] flex w-full flex-col bg-black">
+    <div className="z-[100] flex w-full flex-col bg-black p-5">
   <div className="flex items-center justify-between">
     <div className="flex items-center">
       <a href="/">
@@ -103,7 +103,7 @@ const Header = () => {
     </div>
   </div>
   <div className={`${mobile ? '' : 'hidden'} md:hidden menu-drop`}>
-    <div className="relative z-50 flex w-full flex-col space-y-4 bg-transparent px-6 pb-2 pt-8">
+    <div className="relative z-50 flex w-full flex-col space-y-4 bg-black px-5 pb-2 pt-8">
       <h4 className="mb-2 text-lg">Useful Links:</h4>
 
       <div className="flex items-center space-x-4">
