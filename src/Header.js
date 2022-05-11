@@ -24,19 +24,12 @@ const Header = () => {
               data-nimg="fill"
              className='h-8 w-8 inline'
             />
-            MYSEED
+            MYSEEDNFT
           </span>
         </div>
       </a>
       <div className="ml-10 hidden xl:flex">
         <div className="space-x-12">
-          <a
-            className="text-gray-300 transition duration-300 hover:text-white link"
-            href="/#gallery"
-          >
-            Galeria
-
-          </a>
 
         </div>
       </div>
@@ -112,13 +105,6 @@ const Header = () => {
   <div className={`${mobile ? '' : 'hidden'} md:hidden menu-drop`}>
     <div className="relative z-50 flex w-full flex-col space-y-4 bg-transparent px-6 pb-2 pt-8">
       <h4 className="mb-2 text-lg">Useful Links:</h4>
-      <a
-        className="text-gray-300 transition duration-300 hover:text-white link"
-        href="/#gallery"
-      >
-        Galeria
-
-      </a>
 
       <div className="flex items-center space-x-4">
           <div className="rounded-full bg-gray-500 hover:bg-gray-600 p-2 shadow-lg shadow-white/10 transition duration-300 hover:scale-110">
