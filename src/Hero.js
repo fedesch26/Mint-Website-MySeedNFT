@@ -66,7 +66,7 @@ const Hero = () => {
           >
             <img
               alt="Top Card"
-              src="/images/0.jpg"
+              src="/images/0.png"
               decoding="async"
               data-nimg="fill"
               className="heroCard"
@@ -116,7 +116,7 @@ const Hero = () => {
               >
                 <img
                   alt="My Profile 1"
-                  src='/images/0.jpg'                 
+                  src='/images/0.png'                 
                   decoding="async"
                   data-nimg="fill"
                   className="heroUser"
@@ -179,7 +179,7 @@ const Hero = () => {
           >
             <img
               alt="Back Card"
-              src="/images/1.jpg"
+              src="/images/1.png"
               decoding="async"
               data-nimg="fill"
               className="heroCard"
@@ -230,7 +230,7 @@ const Hero = () => {
               >
                 <img
                   alt="My Profile 2"
-                  src="/images/1.jpg"
+                  src="/images/1.png"
                   decoding="async"
                   data-nimg="fill"
                   className="heroUser"
