@@ -28,7 +28,7 @@ const Header = () => {
           </span>
         </div>
       </a>
-      <div className="ml-10 hidden xl:flex">
+      <div className="ml-10 hidden xl:flex h-12 w-12">
         <div className="space-x-12">
 
         </div>
