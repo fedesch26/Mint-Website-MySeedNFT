@@ -54,7 +54,7 @@ const Hero = () => {
               height: "initial",
               background: "none",
               opacity: 1,
-              border: 20,
+              border: 0,
               margin: 0,
               padding: 0,
               position: "absolute",
@@ -78,7 +78,7 @@ const Hero = () => {
                 right: 0,
                 boxSizing: "border-box",
                 padding: 0,
-                border: 20,
+                border: 0,
                 margin: "auto",
                 display: "block",
                 width: 0,
@@ -104,7 +104,7 @@ const Hero = () => {
                   height: "initial",
                   background: "none",
                   opacity: 1,
-                  border: 20,
+                  border: 0,
                   margin: 0,
                   padding: 0,
                   position: "absolute",
@@ -125,11 +125,10 @@ const Hero = () => {
                     top: 0,
                     left: 0,
                     bottom: 0,
-                    border: 20,
                     right: 0,
                     boxSizing: "border-box",
                     padding: 0,
-                    border: "none",
+                    border: 0,
                     margin: "auto",
                     display: "block",
                     width: 0,
@@ -156,7 +155,7 @@ const Hero = () => {
         </div>
       </div>
     </div>
-    <div className="relative skew-y-3 -translate-x-20 animate-pulse -skew-x-6">
+    <div className="relative skew-y-3 -translate-x-20 -skew-x-6">
       <div className="h-[15rem] w-[11rem] rounded-2xl transition-all duration-300 cursor-pointer bg-gray-900 shadow-xl shadow-indigo-500/30 xl:h-[23rem] xl:w-[18rem] hover:scale-90">
         <div className="relative h-[11rem] w-full xl:h-[18rem] hover:rotate[20px] hover:scale-3">
           <span
@@ -192,7 +191,7 @@ const Hero = () => {
                 right: 0,
                 boxSizing: "border-box",
                 padding: 0,
-                border: 20,
+                border: 0,
                 margin: "auto",
                 display: "block",
                 width: 0,
@@ -219,7 +218,7 @@ const Hero = () => {
                   height: "initial",
                   background: "none",
                   opacity: 1,
-                  border: 20,
+                  border: 0,
                   margin: 0,
                   padding: 0,
                   position: "absolute",
@@ -243,7 +242,7 @@ const Hero = () => {
                     right: 0,
                     boxSizing: "border-box",
                     padding: 0,
-                    border: 20,
+                    border: 0,
                     margin: "auto",
                     display: "block",
                     width: 0,
