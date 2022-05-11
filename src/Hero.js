@@ -150,7 +150,7 @@ const Hero = () => {
             </div>
           </div>
           <span>
-           🌱
+            🌟
           </span>
         </div>
       </div>
@@ -266,7 +266,7 @@ const Hero = () => {
             </div>
           </div>
           <span>
-          🌱
+            🌟
           </span>
         </div>
       </div>
