@@ -28,8 +28,8 @@ const Header = () => {
           </span>
         </div>
       </a>
-      <div className="ml-15 hidden xl:flex">
-        <div className="space-x-15">
+      <div className="h-12 w-12 inline">
+        <div className="space-x-12">
 
         </div>
       </div>
