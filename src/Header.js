@@ -30,7 +30,7 @@ const Header = () => {
       </a>
       <div className="ml-10 hidden xl:flex">
         <div className="space-x-12">
-        <div className="h-15 w-15 inline">
+        <div className="h-15 w-15 inline font-size-15 fontSize-16">
 
         </div>
         </div>
@@ -162,7 +162,10 @@ const Header = () => {
   </div>
 </div>
 
+
   )
+  
 }
+
 
 export default Header
