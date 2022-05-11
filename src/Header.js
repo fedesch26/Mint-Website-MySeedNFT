@@ -10,7 +10,7 @@ const Header = () => {
   };
 
   return (
-    <div className="fixed z-[100] flex w-full flex-col bg-gray-800/40 p-6 backdrop-blur-xl rgb">
+    <div className="z-[100] flex w-full flex-col bg-transparent p-6">
   <div className="flex items-center justify-between">
     <div className="flex items-center">
       <a href="/">
