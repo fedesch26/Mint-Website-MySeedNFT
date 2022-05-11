@@ -10,7 +10,7 @@ const Header = () => {
   };
 
   return (
-    <div className="z-[100] flex w-full flex-col bg-transparent p-6">
+    <div className="z-[100] flex w-full flex-col bg-black">
   <div className="flex items-center justify-between">
     <div className="flex items-center">
       <a href="/">
