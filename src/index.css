@@ -17,6 +17,7 @@ body {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
   overflow-x: hidden;
+  overflow-y: hidden;
   background: #0a1211;
 }
 
