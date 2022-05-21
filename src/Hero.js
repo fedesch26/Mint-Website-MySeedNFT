@@ -15,9 +15,9 @@ const Hero = () => {
       Solana NFT project
     </h2>
     <p className="text-md mb-10 font-medium text-gray-300 xl:text-lg">
-      Conectamos los bienes raices con la tecnologia Blockchain
-      y el mundo de los NFTs. Obten tu semilla ahora y participa
-      por un increible sorteo! 
+    We connect real estate with Blockchain technology
+    and the world of NFTs. Get your seed now and participate
+    in our giveaway! 
     </p>
     <div className="flex flex-col items-center space-x-4 space-y-4 sm:flex-row sm:space-y-0">
       <a href="/https://discord.org">

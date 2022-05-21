@@ -11,12 +11,12 @@ const Count = () => {
   itemsRedeemed ? (<div className='flex items-center mt-12 radious-0 '>
     <span className="animate-ping inline-flex h-4 w-4 rounded-full bg-green-300 opacity-75 mr-3"></span>
    <h3 className=" inline text-center text-3xl font-semibold decoration-indigo-500/80 lg:text-left xl:text-4xl">
-   NFTs Minteados <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">{itemsRedeemed}/{itemsAvailable}</span></h3>
+   NFTs Minted: <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">{itemsRedeemed}/{itemsAvailable}</span></h3>
     </div>) :
   (<div className='flex items-center mt-12 radious-0 '>
   <span className="animate-ping inline-flex h-4 w-4 rounded-full bg-green-300 opacity-75 mr-3"></span>
    <h3 className=" inline text-center text-3xl font-semibold decoration-indigo-500/80 lg:text-left xl:text-4xl">
-   Total de NFTs: <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">10.000</span></h3>
+   Total NFTs: <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">10.000</span></h3>
     </div>)
   )
 }

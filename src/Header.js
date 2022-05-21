@@ -84,7 +84,7 @@ const Header = () => {
       </a>
        <a href="https://solscan.io/account/7xTqBN7KQ2rhmRADn68MVyAM7WYVLwzkT7CHMHAtTLdN?cluster=devnet">
         <div className="w-fit rounded-2xl glass bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100">
-         Ver en Solscan
+         View on Solscan
         </div>
       </a>
     </div>
@@ -155,7 +155,7 @@ const Header = () => {
       </div>
       <a href="https://solscan.io/account/7xTqBN7KQ2rhmRADn68MVyAM7WYVLwzkT7CHMHAtTLdN?cluster=devnet">
         <div className="w-fit rounded-2xl glass bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100">
-         Ver en Solscan
+         View on Solscan
         </div>
       </a>
     </div>
